@@ -1,2 +1,2 @@
 # start-out-coding  this file is a reminder of my start with FreeCodeCamp in learning how to code from scratch with absolutely no background in computer programing. (08.19.2016)
-My goals in learning how to code in acquire a very sought after skillset with the capacity to not only utilize to make a living as a computer programmer (either building websites, working for a corporation as an IT specialist, &/or creating profitable businesses of my own).
+My goal in learning how to code are to acquire a very sought after skillset with the capacity to not only utilize to make a living as a computer programmer (either building websites, working for a corporation as an IT specialist, &/or creating profitable businesses of my own or for others as a service).
